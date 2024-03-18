@@ -23,10 +23,10 @@
 // // let c= ++a
 // // let d = b++
 
-// // console.log(a);
-// // console.log(c);
-// // console.log(b);
-
+// // console.log(a); 2
+// // console.log(c); 2
+// // console.log(b); 2
+ 
 // let a =2
 // let x =1 +(a *=2)
 // console.log(x);
