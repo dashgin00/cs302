@@ -19,13 +19,13 @@
 // let cityName='Baku'
 // console.log(cityName);
 
-// // let a =1, b=1
-// // let c= ++a
-// // let d = b++
+// let a =1, b=1
+// let c= ++a
+// let d = b++
 
-// // console.log(a); 2
-// // console.log(c); 2
-// // console.log(b); 2
+// console.log(a); 
+// console.log(c); 
+// console.log(b); 
  
 // let a =2
 // let x =1 +(a *=2)
